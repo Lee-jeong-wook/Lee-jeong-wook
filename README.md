@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-<a href="[https://www.instagram.com](https://www.instagram.com/_wjdwook)/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="(https://www.instagram.com/_wjdwook)/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
