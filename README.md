@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-jeong-wook)](https://github.com/anuraghazra/github-readme-stats)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-jeong-wook&langs_count=10&layout=compact&theme=dark)](https://github.com/Lee-jeong-wook/Lee-jeong-wook)
 <a href="https://opgc.me/#/users/Lee-jeong-wook" target="_blank"><img src="https://api.opgc.me/githubs/users/Lee-jeong-wook/tag/?theme=basic" target="_blank"/></a>
 <div align=center> 
   
