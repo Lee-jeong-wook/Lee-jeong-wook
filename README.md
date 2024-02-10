@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-jeong-wook&langs_count=10&layout=compact&theme=dark)](https://github.com/Lee-jeong-wook/Lee-jeong-wook)
 <a href="https://opgc.me/#/users/Lee-jeong-wook" target="_blank"><img src="https://api.opgc.me/githubs/users/Lee-jeong-wook/tag/?theme=basic" target="_blank"/></a>
 
-https://github-readme-stats.vercel.app/api?username=Lee-jeong-wook&show_icons=true&theme=dracula
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-jeong-wook&show_icons=true&theme=dracula)
 <div align=center> 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
