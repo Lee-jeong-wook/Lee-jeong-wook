@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-jeong-wook&show_icons=true&theme=dracula)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=blackljw23)](https://solved.ac/blackljw23)<br/>
 <div align=center> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=blackljw1123)](https://solved.ac/blackljw1123)<br/>
+
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
