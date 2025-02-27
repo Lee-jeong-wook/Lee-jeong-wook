@@ -51,4 +51,3 @@ Here are some ideas to get you started:
 </div>
 <h1>연락 SNS </h1>
 <a href="mailto:ijeongwook55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ijeongwook55@gmail.com"/></a>
-<a href="https://www.instagram.com/_wjdwook/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
